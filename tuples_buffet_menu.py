@@ -2,7 +2,7 @@
 #
 # Buffet: A buffet-style restaurant offers only five basic foods . 
 # Think of five simple foods, and store them in a tuple .
-
+#
 # Improved indentation style for this code in file: "indentation_style_buffet_menu.py".
 
 buffet_foods= ('lo mein', 'crab legs', 'fried rice', 'hot pepper fish stew', 'almond cookies')
