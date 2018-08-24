@@ -1,7 +1,7 @@
 # More Conditional Tests: Tests for equality and inequality with strings
 # Tests using the lower() function, upper() function
 
-religions= ['catholic', 'United Methodist', 'mormon']
+religions= ['catholic', 'United Methodist', 'The Church of Jesus Christ of Latter-day Saints']
 for religion in religions:
     if religion == 'catholic':
         print(religion.upper())
