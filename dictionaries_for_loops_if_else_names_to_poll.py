@@ -15,7 +15,7 @@ favorite_languages = {
     'jill': 'clojure',
     }
 
-names_to_poll = ['jill', 'miles', 'tanya', 'emily', 'susanne']
+names_to_poll = ['jill', 'miles', 'tanya', 'eli', 'susanne']
 
 for name in names_to_poll:
     if name in favorite_languages:
