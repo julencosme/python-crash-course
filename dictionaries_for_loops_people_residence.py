@@ -1,9 +1,3 @@
-# People: Make two new dictionaries representing different people, and store
-# all three dicitonaries in a list called 'people'.
-#
-# Loop through your list of people. As you loop through the list, print
-# everything you know about each person.
-
 people = {
     'jwalton': {
         'first': 'joni',

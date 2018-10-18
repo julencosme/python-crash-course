@@ -1,14 +1,3 @@
-# Every Function: Think of something you could store in a list . 
-#
-# For example, you could make a list of mountains,
-# rivers, countries, cities, languages, or anything else you'd like .
-#  
-# Write a program that creates a list containing these items and then uses each
-# function introduced in this chapter at least once .
-#
-# Functions used in this chapter: append(), insert(), del, pop(), remove(),
-# sort(), sorted(reverse=True), reverse(), and len().
-
 languages = ['Chamorro', 'Tagalog', 'English', 'russian']
 print(languages)
 

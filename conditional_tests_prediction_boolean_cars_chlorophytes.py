@@ -1,16 +1,11 @@
-# Conditional Tests: Write a series of conditional tests . 
-# Print a statement describing each test and your prediction for the results 
-# of each test .
-
-car= 'audi'
+car = 'audi'
 print("Is car == 'audi'? I predict True.")
 print(car == 'audi')
 print("\nIs car == 'toyota'? I predict False.")
 print(car == 'toyota')
 
-chlorophyte= 'volvox'
+chlorophyte = 'volvox'
 print("This is a chlorophyte == 'volvox'")
 print(chlorophyte == 'volvox')
 print("\nThis is not classified as a chlorophyte. == 'non-chlorophyte'")
 print(chlorophyte == 'non-chlorophyte')
-

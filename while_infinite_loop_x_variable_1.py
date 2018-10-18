@@ -1,5 +1,4 @@
-# Infinity: Write a loop that never ends, and run it.
-
+# Infinite loop example -- do not run!
 x = 1
 while x <= 4:
     print(x)
