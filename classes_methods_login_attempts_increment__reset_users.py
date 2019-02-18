@@ -1,6 +1,6 @@
-# Adding a function that increments the number of user login attempts to the
+# Adding a method that increments the number of user login attempts to the
 # User class.
-# Adding another function that resets the value of login attempts to zero to the
+# Adding another method that resets the value of login attempts to zero to the
 # User class.
 
 
