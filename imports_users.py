@@ -2,10 +2,10 @@
 
 from user import User, Privileges, Admin
 
-user_a = User('amber', 'atkins', 45, 'peru')
+user = User('amber', 'atkins', 45, 'peru')
 
-user_a.describe_user()
-user_a.greet_user()
+user.describe_user()
+user.greet_user()
 
-admin_a = Admin()
-admin_a.describe_admin_privileges()
+admin = Admin()
+admin.describe_admin_privileges()
