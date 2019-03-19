@@ -1,6 +1,6 @@
-# Using module 'collections', and class 'OrderedDict,
-# with dictionary 'glossary_programming_terms'
-# from, file 'dictionaries_glossary_programming_terms.py'
+# Using module 'collections', and class 'OrderedDict
+# with dictionary: 'glossary_programming_terms'
+# from file, 'dictionaries_glossary_programming_terms.py'
 
 from collections import OrderedDict
 
