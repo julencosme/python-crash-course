@@ -1,0 +1,4 @@
+
+Amoeba moves by extending and pulling itself forward.
+Amoeba engulfs food particles.
+Amoeba was found in soil -- not water.
