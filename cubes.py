@@ -7,7 +7,7 @@ cubes = [1, 8, 27, 64, 125]
 plt.plot(input_values, cubes, linewidth=3)
 
 
-plt.title("Square Numbers", fontsize=21)
+plt.title("Cubed Numbers", fontsize=21)
 plt.xlabel("Value", fontsize=13)
 plt.ylabel("Square of Value", fontsize=13)
 
