@@ -1,4 +1,4 @@
-# Testing population parameter that has beed added to city_functions.
+# Testing parameters for function: 'city_population.py'.
 
 import unittest
 from city_population import get_formatted_city_country
